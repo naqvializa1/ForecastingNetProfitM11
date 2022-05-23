@@ -2,7 +2,7 @@
 
 # Project Title
 
-This program demonstrates time series analysis and forecasting using fbProphet. 
+This program demonstrates time series analysis and forecasting using GoogleColab. 
 Please refer to: https://colab.research.google.com/drive/1D9O4VoEbuwOn2LG9t27sJ5-19SmNk0nb?usp=sharing
 ---
 
